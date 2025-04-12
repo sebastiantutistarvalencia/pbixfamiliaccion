@@ -45,4 +45,4 @@ Aunque el programa **Más Familias en Acción** tiene una amplia cobertura nacio
 ---
 
 > Fuente de datos: [datos.gov.co](https://www.datos.gov.co)  
-> Visualización desarrollada por el Departamento para la Prosperidad Social
+> Visualización desarrollada por Sebastián Tutistar Valencia.
