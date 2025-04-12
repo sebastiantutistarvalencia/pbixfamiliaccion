@@ -42,6 +42,8 @@ Aunque el programa **Más Familias en Acción** tiene una amplia cobertura nacio
   - **Rangos de ingreso**
 - Uso de **datos abiertos** para promover la **transparencia y el acceso ciudadano**.
 
+<iframe title="familiasaccion2025" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjg4Y2FkZDQtYmNmMi00NzE3LTgyYjAtMjUzZDE1Mjc1YWQ3IiwidCI6ImZkNzY2ZWRkLThiZWEtNGM5OS04NjcyLTU2ZDFjYWJjMjcwNiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+
 ---
 
 > Fuente de datos: [datos.gov.co](https://www.datos.gov.co)  
