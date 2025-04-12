@@ -1,1 +1,13 @@
-<iframe title="familiasaccion2025" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjg4Y2FkZDQtYmNmMi00NzE3LTgyYjAtMjUzZDE1Mjc1YWQ3IiwidCI6ImZkNzY2ZWRkLThiZWEtNGM5OS04NjcyLTU2ZDFjYWJjMjcwNiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <title>Dashboard Familias en Acción</title>
+  </head>
+  <body style="margin: 0; padding: 0;">
+    <iframe title="familiasaccion2025" width="100%" height="800" 
+      src="https://app.powerbi.com/view?r=eyJrIjoiNjg4Y2FkZDQtYmNmMi00NzE3LTgyYjAtMjUzZDE1Mjc1YWQ3IiwidCI6ImZkNzY2ZWRkLThiZWEtNGM5OS04NjcyLTU2ZDFjYWJjMjcwNiIsImMiOjR9" 
+      frameborder="0" allowFullScreen="true">
+    </iframe>
+  </body>
+</html>
